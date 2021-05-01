@@ -8,4 +8,5 @@ public class UserManager {
 	public void logout(User user) {
 		System.out.println(user.getName() + " sistemden çıkış yaptı!");
 	} 
+	
 }

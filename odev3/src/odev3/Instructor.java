@@ -17,5 +17,4 @@ public class Instructor extends User{
 		this.course = course;
 	}
 	
-	
 }
