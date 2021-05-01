@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 	   
-
+		
 		User user = new User();
 		user.setId(1);
 		user.setName("Ceyda Saran");
